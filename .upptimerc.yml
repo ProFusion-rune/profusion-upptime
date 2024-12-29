@@ -7,13 +7,16 @@ sites:
     url: https://rune.red
   - name: profusion
     url: https://profusion.cc
+    # CLIENTS --
   - name: jameshanlondirector.com
     url: https://jameshanlondirector.com
   - name: Quarter Finance
     url: https://quarterfinance.com
-  - name: IPv6 test
-    url: forwardemail.net
-
+  - name: myPolitics
+    url: https://mypolitics.co
+  - name: BSSilberman
+    url: https://bssilberman.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
