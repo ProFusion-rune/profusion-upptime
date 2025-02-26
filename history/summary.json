@@ -76,18 +76,20 @@
     "url": "https://mypolitics.co",
     "icon": "https://icons.duckduckgo.com/ip3/mypolitics.co.ico",
     "slug": "my-politics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 212,
-    "timeWeek": 237,
-    "timeMonth": 295,
+    "timeDay": 248,
+    "timeWeek": 243,
+    "timeMonth": 294,
     "timeYear": 289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-26": 0
+    }
   },
   {
     "name": "BSSilberman",
