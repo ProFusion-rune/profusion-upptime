@@ -1,7 +1,7 @@
 url: https://mypolitics.co
-status: up
-code: 200
-responseTime: 1155
-lastUpdated: 2025-10-26T23:19:55.247Z
+status: down
+code: 415
+responseTime: 206
+lastUpdated: 2025-10-27T16:29:23.224Z
 startTime: 2024-12-29T21:25:33.824Z
 generator: Upptime <https://github.com/upptime/upptime>
