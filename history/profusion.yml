@@ -1,7 +1,7 @@
 url: https://profusion.cc
-status: up
-code: 200
-responseTime: 1274
-lastUpdated: 2025-11-23T23:20:41.574Z
+status: down
+code: 415
+responseTime: 181
+lastUpdated: 2025-11-24T09:58:57.671Z
 startTime: 2024-12-29T00:06:52.699Z
 generator: Upptime <https://github.com/upptime/upptime>
